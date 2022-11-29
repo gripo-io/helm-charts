@@ -1,5 +1,16 @@
 apiVersion: v1
 entries:
+  kafka:
+  - apiVersion: v2
+    appVersion: 3.2.1
+    created: "2022-11-29T16:47:59.574975282Z"
+    description: A Kafka cluster helm chart compatible with strimzi-kafka-operator. Strimzi Kafka Operator official configuration reference - https://strimzi.io/docs/operators/latest/configuring.html
+    digest: e541c0a607f9e22708bc8cac57bd4e393014fc643478a379bc2a3698d39950d4
+    name: kafka
+    type: application
+    urls:
+    - https://github.com/gripo-io/helm-charts/releases/download/kafka-0.1.9/kafka-0.1.9.tgz
+    version: 0.1.9
   sample-kafka:
   - apiVersion: v2
     appVersion: 1.16.0
