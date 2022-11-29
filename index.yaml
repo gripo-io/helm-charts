@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  sample-kafka:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-11-29T15:53:53.7747148Z"
+    description: A Helm chart for Kubernetes
+    digest: 56c896cbf24f6205f8d563ec4d08ee136dd9f084160b4b98f9b35aec83f5dfda
+    name: sample-kafka
+    type: application
+    urls:
+    - https://github.com/gripo-io/helm-charts/releases/download/sample-kafka-0.1.0/sample-kafka-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-11-29T15:53:53.493222805Z"
