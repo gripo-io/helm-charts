@@ -25,6 +25,16 @@ entries:
   test-kafka:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-12-04T15:49:03.470016558Z"
+    description: A Helm chart for Kubernetes
+    digest: 3246cca19baec75c3bbafc95122795c95001db7c7c08a5a4481156ffc1e91cee
+    name: test-kafka
+    type: application
+    urls:
+    - https://github.com/gripo-io/helm-charts/releases/download/test-kafka-0.1.1/test-kafka-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-12-04T15:40:39.039997709Z"
     description: A Helm chart for Kubernetes
     digest: 913974b7843c1cf7f2f74dd0076f3e14d0cb9ba0295ecda2bf2a62293fc15f0b
